@@ -1,0 +1,5 @@
+.app_itemscontainer{
+    scroll-snap-type: y mandatory;
+    overflow: auto;
+    height: 100vh;
+}

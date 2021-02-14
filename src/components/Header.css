@@ -12,7 +12,7 @@
 
 .header_logo{
     height: 24px;
-    width: 100px;
+    width: 230px;
     margin-top: 7px;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .header_center>p{
-    margin: 10px;
+    margin: 18px;
     text-transform: uppercase;
 }
 
@@ -34,5 +34,15 @@
 }
 
 .header_right>p{
-    margin: 10px;
+    margin: 18px;
+    margin-right: 2rem;
+}
+
+@media (max-width:500px){
+    .header_center{
+       display: none;
+    }
+    .header_right{
+       display: none;
+    }
 }
