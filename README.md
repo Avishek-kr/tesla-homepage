@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![tesla](https://user-images.githubusercontent.com/23341110/107881958-c62c1300-6f0c-11eb-9437-d0b87c847249.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
